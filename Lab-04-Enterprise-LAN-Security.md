@@ -1,8 +1,7 @@
 # Lab 04: Enterprise LAN Security Assessment
 
-## Name: Your Name  
-## Course: IT 520  
-## Date: 2026  
+## Name: Sadeem Alanazi
+## Course: IT 355   
 
 ---
 
